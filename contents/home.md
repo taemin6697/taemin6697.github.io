@@ -11,4 +11,4 @@ taemin6697[at]gmail.com
 2022.06 ~ 2023.03, Hansung University Undergraduate researcher : Marusys edu Co., Ltd.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence
+Deep Learning, Artificial Intelligence, HCI
