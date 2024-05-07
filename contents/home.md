@@ -1,4 +1,6 @@
-Completed Boost Camp AI tech NLP and worked as an ML Researcher at Alethio. Currently studying as a student at Hansung University.
+Completed Boost Camp AI tech NLP and worked as an ML Researcher at Alethio.
+
+Currently studying as a student at Hansung University.
 
 #### Email
 taemin6697[at]gmail.com
