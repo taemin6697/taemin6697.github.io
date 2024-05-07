@@ -1,4 +1,4 @@
-Completed Boost Camp AI tech NLP and worked as an ML Researcher at Alethio.
+Completed Boost Camp AI Tech with a focus on NLP and worked as an ML researcher at Alethio, focusing on diffusion research.
 
 Currently studying as a student at Hansung University.
 
@@ -16,5 +16,12 @@ taemin6697[at]gmail.com
 
 2022.06 ~ 2023.03, Hansung University Undergraduate researcher : Marusys edu Co., Ltd.
 
+### Featured Projects
+Visualize Diffusion Cross Attention Map for Text-to-Image(2023)[[Code]](https://github.com/wooyeolBaek/attention-map)
+
+Uploaded Llama-2-ko-Chat to HuggingFace(2023)[[Code]](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)
+
+Edge device-based AI Teachable Machine Development(2022)
+
 #### Research Interests
-Deep Learning, Artificial Intelligence, HCI
+Deep Learning, Multi modal, LLM, Diffusion, HCI
