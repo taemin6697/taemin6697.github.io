@@ -19,7 +19,7 @@ taemin6697[at]gmail.com
 #### Featured Projects
 Visualize Diffusion Cross Attention Map for Text-to-Image(2023)[[Code]](https://github.com/wooyeolBaek/attention-map)
 
-Development of AI Profile Using Diffusion at ALETHIO Co., Ltd.(2023)
+Development of AI Profile Loura Using Diffusion at ALETHIO Co., Ltd.(2023)
 
 Presentation on Natural Language Processing and GPT Seminar at BESTIANSOFT INC.(2023)
 
