@@ -1,12 +1,14 @@
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+Completed Boost Camp AI tech NLP and worked as an ML Researcher at Alethio. Currently studying as a student at Hansung University.
 
 #### Email
-sli[at]cumt.edu.cn
+taemin6697[at]gmail.com
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
-
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2023.08 ~ 2023.12, Alethio ML Researcher Intern, Alethio Co., Ltd.
+2023.07 ~ 2023.09, LG Aimers 3th, LG Aimers
+2023.03 ~ 2023.08, NLP AI Developer 5th, BoostCamp AI Tech
+2023.03 ~ 2023.04, Hansung University Undergraduate researcher : Visual Intelligence Lab.
+2022.06 ~ 2023.03, Hansung University Undergraduate researcher : Marusys edu Co., Ltd.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence
