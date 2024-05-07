@@ -24,4 +24,4 @@ Uploaded Llama-2-ko-Chat to HuggingFace(2023)[[Code]](https://huggingface.co/kfk
 Edge device-based AI Teachable Machine Development(2022)
 
 #### Research Interests
-Deep Learning, Multi modal, LLM, Diffusion, HCI
+Multi-Modal Learning, LLM, Diffusion, HCI
