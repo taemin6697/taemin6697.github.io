@@ -27,7 +27,7 @@ Development of Legal-GPT and SBERT for Automated Legal Advising(2023)[[Code]](ht
 
 Uploaded Llama-2-ko-Chat to HuggingFace(2023)[[Code]](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)
 
-Edge device-based AI Teachable Machine Development, Marusys edu Co., Ltd.(2022)
+Edge device-based AI Teachable Machine Development at Marusys edu Co., Ltd.(2022)
 
 #### Research Interests
 Multi-Modal Learning, LLM, Diffusion, HCI
