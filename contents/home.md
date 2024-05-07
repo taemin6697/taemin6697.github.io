@@ -21,7 +21,7 @@ Visualize Diffusion Cross Attention Map for Text-to-Image(2023)[[Code]](https://
 
 Development of AI Profile Using Diffusion at ALETHIO Co., Ltd. (2023)
 
-Presentation on Natural Language Processing and GPT at BESTIANSOFT INC. Seminar(2023)
+Presentation on Natural Language Processing and GPT Seminar at BESTIANSOFT INC.(2023)
 
 Development of Legal-GPT and SBERT for Automated Legal Advising(2023)[[Code]](https://github.com/boostcampaitech5/level3_nlp_finalproject-nlp-08)
 
