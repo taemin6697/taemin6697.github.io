@@ -1,4 +1,4 @@
-Completed Boost Camp AI Tech with a focus on NLP and worked as an ML researcher at Alethio, focusing on diffusion research.
+Completed Boost Camp AI Tech with a focus on NLP and worked as an ML researcher at Alethio, focusing on Diffusion research.
 
 Currently studying as a student at Hansung University.
 
