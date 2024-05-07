@@ -16,7 +16,7 @@ taemin6697[at]gmail.com
 
 2022.06 ~ 2023.03, Hansung University Undergraduate researcher : Marusys edu Co., Ltd.
 
-### Featured Projects
+#### Featured Projects
 Visualize Diffusion Cross Attention Map for Text-to-Image(2023)[[Code]](https://github.com/wooyeolBaek/attention-map)
 
 Uploaded Llama-2-ko-Chat to HuggingFace(2023)[[Code]](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)
