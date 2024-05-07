@@ -19,15 +19,15 @@ taemin6697[at]gmail.com
 #### Featured Projects
 Visualize Diffusion Cross Attention Map for Text-to-Image(2023)[[Code]](https://github.com/wooyeolBaek/attention-map)
 
-Development of AI Profile Using Diffusion at <strong>ALETHIO Co., Ltd.</strong>(2023)
+Development of AI Profile Using Diffusion at ALETHIO Co., Ltd.(2023)
 
-Presentation on Natural Language Processing and GPT Seminar at <strong>BESTIANSOFT INC.</strong>(2023)
+Presentation on Natural Language Processing and GPT Seminar at BESTIANSOFT INC.(2023)
 
 Development of Legal-GPT and SBERT for Automated Legal Advising(2023)[[Code]](https://github.com/boostcampaitech5/level3_nlp_finalproject-nlp-08)
 
 Uploaded Llama-2-ko-Chat to HuggingFace(2023)[[Code]](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)
 
-Edge device-based AI Teachable Machine Development, <strong>Marusys edu Co., Ltd.</strong>(2022)
+Edge device-based AI Teachable Machine Development, Marusys edu Co., Ltd.(2022)
 
 #### Research Interests
 Multi-Modal Learning, LLM, Diffusion, HCI
