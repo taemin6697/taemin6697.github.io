@@ -19,6 +19,8 @@ taemin6697[at]gmail.com
 #### Featured Projects
 Visualize Diffusion Cross Attention Map for Text-to-Image(2023)[[Code]](https://github.com/wooyeolBaek/attention-map)
 
+Development of Legal-GPT and SBERT for Automated Legal Advising(2023)[[Code]](https://github.com/boostcampaitech5/level3_nlp_finalproject-nlp-08)
+
 Uploaded Llama-2-ko-Chat to HuggingFace(2023)[[Code]](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)
 
 Edge device-based AI Teachable Machine Development(2022)
