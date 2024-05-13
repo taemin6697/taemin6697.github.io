@@ -21,7 +21,7 @@ Expanding Multimodal LLM to Multimodal Generation Research at ETRI., Hansung Uni
 
 Visualize Diffusion Cross Attention Map for Text-to-Image(2023)[[Code]](https://github.com/wooyeolBaek/attention-map)
 
-Development of AI Profile Loura Using Diffusion at ALETHIO Co., Ltd.(2023)
+Development of AI Profile Loura Using Diffusion at ALETHIO Co., Ltd.(2023)[[News]](https://search.naver.com/search.naver?sm=tab_hty.top&where=news&ssc=tab.news.all&query=%EC%95%8C%EB%A0%88%EC%8B%9C%EC%98%A4+%EB%A1%9C%EC%9A%B0%EB%9D%BC&oquery=%EC%95%8C%EB%A0%88%EC%8B%9C%EC%98%A4&tqi=iCbzQsqpts0ssNV%2Bxhhssssst04-070761&nso=so%3Add%2Cp%3Aall&mynews=0&office_category=0&office_section_code=0&office_type=0&pd=0&photo=0&service_area=0&sort=1)
 
 Presentation on Natural Language Processing and GPT Seminar at BESTIANSOFT INC.(2023)
 
