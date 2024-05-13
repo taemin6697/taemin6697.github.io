@@ -17,6 +17,8 @@ taemin6697[at]gmail.com
 2022.06 ~ 2023.03, Hansung University Undergraduate researcher : Marusys edu Co., Ltd.
 
 #### Featured Projects
+Expanding Multimodal LLM to Multimodal Generation Research at ETRI., Hansung University (2024)
+
 Visualize Diffusion Cross Attention Map for Text-to-Image(2023)[[Code]](https://github.com/wooyeolBaek/attention-map)
 
 Development of AI Profile Loura Using Diffusion at ALETHIO Co., Ltd.(2023)
