@@ -6,6 +6,8 @@ Currently studying as a student at Hansung University.
 taemin6697[at]gmail.com
 
 #### Education
+2024.05 ~ 2024.05, Hansung Bllossom GPT Serving, Hansung UN
+
 2023.08 ~ 2023.12, Alethio ML Researcher Intern, Alethio Co., Ltd.
 
 2023.07 ~ 2023.09, LG Aimers 3th, LG Aimers
@@ -17,6 +19,8 @@ taemin6697[at]gmail.com
 2022.06 ~ 2023.03, Hansung University Undergraduate researcher : Marusys edu Co., Ltd.
 
 #### Featured Projects
+Hansung Bllossom GPT Serving(2024)[[code]](https://github.com/taemin6697/HansungGPT/tree/main)
+
 Expanding Multimodal LLM to Multimodal Generation Research at <strong>ETRI.</strong>, Hansung University(2024)
 
 Visualize Diffusion Cross Attention Map for Text-to-Image(2023)[[Code]](https://github.com/wooyeolBaek/attention-map)
