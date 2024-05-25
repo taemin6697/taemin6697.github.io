@@ -19,7 +19,7 @@ taemin6697[at]gmail.com
 2022.06 ~ 2023.03, Hansung University Undergraduate researcher : Marusys edu Co., Ltd.
 
 #### Featured Projects
-Hansung Bllossom GPT Serving(2024)[[code]](https://github.com/taemin6697/HansungGPT/tree/main)
+Hansung Bllossom GPT Serving(2024)[[Code]](https://github.com/taemin6697/HansungGPT/tree/main)
 
 Expanding Multimodal LLM to Multimodal Generation Research at <strong>ETRI.</strong>, Hansung University(2024)
 
