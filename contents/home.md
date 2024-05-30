@@ -6,6 +6,8 @@ Currently studying as a student at Hansung University.
 taemin6697[at]gmail.com
 
 #### Education
+2024.07 ~ , KAIST IC Lab Intern, KAIST IC Lab.
+
 2023.08 ~ 2023.12, Alethio ML Researcher Intern, Alethio Co., Ltd.
 
 2023.07 ~ 2023.09, LG Aimers 3th, LG Aimers
