@@ -1,3 +1,1 @@
-Towards a More Sophisticated Multimodal Generative MLLM(2024)
-
-(Currently being implemented and researched)
+Efficient Generative Multimodal Integration(EGMI): Enhancing Alignment in MultimodalLarge Language Models for Comprehension and Generation
