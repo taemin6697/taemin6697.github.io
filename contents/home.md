@@ -6,7 +6,7 @@ Currently studying as a student at Hansung University.
 taemin6697[at]gmail.com
 
 #### Education
-2024.07 ~ , KAIST IC Lab Intern, KAIST IC Lab.
+2024.07 ~ 2024.09, KAIST IC Lab Intern, KAIST IC Lab.
 
 2023.08 ~ 2023.12, Alethio ML Researcher Intern, Alethio Co., Ltd.
 
@@ -17,6 +17,8 @@ taemin6697[at]gmail.com
 2022.06 ~ 2023.03, Hansung University Undergraduate researcher : Marusys edu Co., Ltd.
 
 #### Featured Projects
+Prompt Modularization & Emotion Recognition with LLM at KAIST(2024)[[Code]](https://github.com/taemin6697/taemin6697-KAIST-Internship_summer24)
+
 Hansung Bllossom GPT Serving(2024)[[Code]](https://github.com/taemin6697/HansungGPT/tree/main)
 
 Expanding Multimodal LLM to Multimodal Generation Research at <strong>ETRI.</strong>, Hansung University(2024)
