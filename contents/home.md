@@ -17,7 +17,7 @@ taemin6697[at]gmail.com
 2022.06 ~ 2023.03, Hansung University Undergraduate Researcher : Marusys edu Co., Ltd.
 
 #### Featured Projects
-Prompt Modularization & Emotion Recognition with LLM at <strong>KAIST</strong>(2024) [[Code]](https://github.com/taemin6697/taemin6697-KAIST-Internship_summer24)
+Prompt Modularization & Emotion Recognition with LLM at KAIST(2024) [[Code]](https://github.com/taemin6697/taemin6697-KAIST-Internship_summer24)
 
 Hansung Bllossom GPT Serving(2024) [[Code]](https://github.com/taemin6697/HansungGPT/tree/main)
 
