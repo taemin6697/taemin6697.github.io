@@ -1,6 +1,6 @@
 Completed Boost Camp AI Tech with a focus on NLP and worked as an ML researcher at Alethio, focusing on Diffusion research.
 
-Currently studying as a student at Hansung University.
+Currently an at Hansung University while also conducting research at Korea University Robot Intelligence Lab (RILab).
 
 #### Email
 taemin6697[at]gmail.com
