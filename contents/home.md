@@ -14,7 +14,7 @@ taemin6697[at]gmail.com
 
 2023.03 ~ 2023.08, NLP AI Developer 5th, BoostCamp AI Tech
 
-2023.03 ~ 2023.04, Hansung University Undergraduate Researcher : Visual Intelligence Lab.
+2023.03 ~ 2023.04, Hansung University Visual Intelligence Lab Intern : Visual Intelligence Lab.
 
 2022.06 ~ 2023.03, Hansung University Undergraduate Researcher : Marusys edu Co., Ltd.
 
