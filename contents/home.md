@@ -6,15 +6,15 @@ Currently an at Hansung University while also conducting research at Korea Unive
 taemin6697[at]gmail.com
 
 #### Education
-2024.12 ~ , Korea University Robot Intelligence Lab Intern, Korea University RILab.
+2024.12 ~ , Robot Intelligence Lab Intern, Korea University.
 
-2024.07 ~ 2024.09, KAIST IC Lab Research Intern, KAIST IC Lab.
+2024.07 ~ 2024.09, Interactive Computing Lab Intern, KAIST.
 
 2023.08 ~ 2023.12, Alethio ML Researcher Intern, Alethio Co., Ltd.
 
-2023.03 ~ 2023.08, NLP AI Developer 5th, BoostCamp AI Tech
+2023.03 ~ 2023.08, NLP AI Developer 5th, BoostCamp AI Tech.
 
-2023.03 ~ 2023.04, Hansung University Visual Intelligence Lab Intern
+2023.03 ~ 2023.04, Visual Intelligence Lab Intern, Hansung University.
 
 2022.06 ~ 2023.03, Hansung University Undergraduate Researcher, Marusys edu Co., Ltd.
 
