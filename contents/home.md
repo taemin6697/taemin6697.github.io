@@ -10,13 +10,13 @@ taemin6697[at]gmail.com
 
 2024.07 ~ 2024.09, Interactive Computing Lab Intern, KAIST.
 
-2023.08 ~ 2023.12, Alethio ML Researcher Intern, Alethio Co., Ltd.
+2023.08 ~ 2023.12, Machine Learning Research Intern, Alethio Co., Ltd.
 
 2023.03 ~ 2023.08, NLP AI Developer 5th, Naver BoostCamp AI Tech.
 
 2023.03 ~ 2023.04, Visual Intelligence Lab Intern, Hansung University.
 
-2022.06 ~ 2023.03, Hansung University Undergraduate Researcher, Marusys edu Co., Ltd.
+2022.06 ~ 2023.03, Undergraduate Researcher, Marusys edu Co., Ltd.
 
 #### Featured Projects
 Prompt Modularization & Emotion Recognition with LLM at KAIST(2024) [[Code]](https://github.com/taemin6697/taemin6697-KAIST-Internship_summer24)
