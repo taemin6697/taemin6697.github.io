@@ -12,7 +12,7 @@ taemin6697[at]gmail.com
 
 2023.08 ~ 2023.12, Alethio ML Researcher Intern, Alethio Co., Ltd.
 
-2023.03 ~ 2023.08, NLP AI Developer 5th, BoostCamp AI Tech.
+2023.03 ~ 2023.08, NLP AI Developer 5th, Naver BoostCamp AI Tech.
 
 2023.03 ~ 2023.04, Visual Intelligence Lab Intern, Hansung University.
 
