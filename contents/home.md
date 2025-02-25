@@ -5,7 +5,7 @@ Studying at Hansung University.
 taemin6697[at]gmail.com
 
 #### Education
-2024.12 ~ , Robot Intelligence Lab Intern, Korea University.
+2024.12 ~ 2025.02, Robot Intelligence Lab Intern, Korea University.
 
 2024.07 ~ 2024.09, Interactive Computing Lab Intern, KAIST.
 
@@ -18,6 +18,8 @@ taemin6697[at]gmail.com
 2022.06 ~ 2023.03, Undergraduate Researcher, Marusys edu Co., Ltd.
 
 #### Featured Projects
+VLM Interrupt-Based Robot Navigation System at Korea University(2025)
+
 Prompt Modularization & Emotion Recognition with LLM at KAIST(2024) [[Code]](https://github.com/taemin6697/taemin6697-KAIST-Internship_summer24)
 
 Hansung Bllossom GPT Serving(2024) [[Code]](https://github.com/taemin6697/HansungGPT/tree/main)
