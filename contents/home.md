@@ -1,4 +1,4 @@
-Interested in LLMs and Diffusion models, currently exploring research in Robotics AI.
+Interested in LLMs and Diffusion models, currently exploring research in Edge AI.
 Studying at Hansung University.
 
 #### Email
