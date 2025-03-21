@@ -4,6 +4,7 @@ Studying at Hansung University.
 #### Email
 taemin6697[at]gmail.com
 
+
 #### Education
 2025.03 ~ Present, Mobile Embedded Systems Lab Intern, Korea University.
 
@@ -18,6 +19,7 @@ taemin6697[at]gmail.com
 2023.03 ~ 2023.04, Visual Intelligence Lab Intern, Hansung University.
 
 2022.06 ~ 2023.03, Undergraduate Researcher, Marusys edu Co., Ltd.
+
 
 #### Featured Projects
 VLM Interrupt-Based Robot Navigation System at Korea University(2025)
@@ -39,6 +41,7 @@ Development of Legal-GPT and SBERT for Automated Legal Advising(2023) [[Code]](h
 Uploaded Llama-2-ko-Chat to HuggingFace(2023) [[Code]](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)
 
 Edge device-based AI Teachable Machine Development at Marusys edu Co., Ltd.(2022)
+
 
 #### Research Interests
 Multi-Modal Learning, LLM, Diffusion, HCI
