@@ -4,6 +4,7 @@ Studying at Hansung University.
 #### Email
 taemin6697[at]gmail.com
 &nbsp;
+&nbsp;
 #### Education
 2025.03 ~ Present, Mobile Embedded Systems Lab Intern, Korea University.
 
