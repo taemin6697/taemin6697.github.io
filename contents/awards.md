@@ -1,6 +1,4 @@
-- 2025 Hansung University Capstone Design IT Convergence Engineering <strong> Grand Prize (1st Place) </strong>, Voice Cloning, Hansung University, Korea (Mar. 2025 ~ Jun. 2025)
-
-- 2025 Hansung University Capstone Design IT Convergence Engineering <strong> Excellence Award (2st Place) </strong>, AI based tip calculator, Hansung University, Korea (Mar. 2025 ~ Jun. 2025)
+- 2025 Hansung University Capstone Design IT Convergence Engineering <storng>Grand Prize (1st Place) & Excellence Award (2nd Place)</storng> Simultaneous Win (Voice Cloning, AI-based Tip Calculator), Hansung University, Korea (Mar. 2025 ~ Jun. 2025)
 
 - 2023 Kyowon Group AI Challenge Advance to the finals <strong>(9/430)</strong>, OCR, Kyowon Group, Korea
 (Jan. 2023 ~ Feb. 2023)
