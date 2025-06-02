@@ -22,7 +22,7 @@ taemin6697[at]gmail.com
 #### Featured Projects
 VLM Interrupt-Based Robot Navigation System at Korea University(2025) [[LG NDA]](https://youtu.be/VmqXaNQ5Wq4)
 
-Prompt Modularization & Emotion Recognition with LLM at KAIST(2024) [[Code]](https://github.com/taemin6697/taemin6697-KAIST-Internship_summer24)
+Prompt Modularization & Emotion Recognition with LLM at KAIST(2024) [[Paper]](https://ic.kaist.ac.kr/publications/papers/kim2025prompt.pdf)
 
 Hansung Bllossom GPT Serving(2024) [[Code]](https://github.com/taemin6697/HansungGPT/tree/main)
 
