@@ -20,7 +20,7 @@ taemin6697[at]gmail.com
 2022.06 ~ 2023.03, Undergraduate Researcher, Marusys edu Co., Ltd.
 
 #### Featured Projects
-VLM Interrupt-Based Robot Navigation System at Korea University(2025) [[Demo]](https://youtu.be/VmqXaNQ5Wq4)
+VLM Interrupt-Based Robot Navigation System at Korea University(2025) [[LG NDA]](https://youtu.be/VmqXaNQ5Wq4)
 
 Prompt Modularization & Emotion Recognition with LLM at KAIST(2024) [[Code]](https://github.com/taemin6697/taemin6697-KAIST-Internship_summer24)
 
