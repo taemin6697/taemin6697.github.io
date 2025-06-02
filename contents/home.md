@@ -20,13 +20,13 @@ taemin6697[at]gmail.com
 2022.06 ~ 2023.03, Undergraduate Researcher, Marusys edu Co., Ltd.
 
 #### Featured Projects
-VLM Interrupt-Based Robot Navigation System at Korea University(2025)
+VLM Interrupt-Based Robot Navigation System at Korea University(2025) [[Demo]](https://youtu.be/VmqXaNQ5Wq4)
 
 Prompt Modularization & Emotion Recognition with LLM at KAIST(2024) [[Code]](https://github.com/taemin6697/taemin6697-KAIST-Internship_summer24)
 
 Hansung Bllossom GPT Serving(2024) [[Code]](https://github.com/taemin6697/HansungGPT/tree/main)
 
-Expanding Multimodal LLM to Multimodal Generation Research at <strong>ETRI.</strong>, Hansung University(2024)
+Expanding Multimodal LLM to Multimodal Generation Research at <strong>ETRI.</strong>, Hansung University(2024) [[Paper]](https://openreview.net/pdf?id=5fWY2ZlsKj)
 
 Visualize Diffusion Cross Attention Map for Text-to-Image(2023) [[Code]](https://github.com/wooyeolBaek/attention-map)
 
@@ -38,7 +38,7 @@ Development of Legal-GPT and SBERT for Automated Legal Advising(2023) [[Code]](h
 
 Uploaded Llama-2-ko-Chat to HuggingFace(2023) [[Code]](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)
 
-Edge device-based AI Teachable Machine Development at Marusys edu Co., Ltd.(2022)
+Edge device-based AI Teachable Machine Development at Marusys edu Co., Ltd.(2022) [[Demo]](https://youtu.be/V8V9z96L9wI)
 
 #### Research Interests
 Multi-Modal Learning, LLM, Diffusion, HCI
