@@ -1,4 +1,4 @@
-- Hansung Engineering Competition, Hansung University <strong>Best Prize (2st Place)</strong>, Korea (Aug. 2025 ~ Sep. 2025)
+- Hansung Engineering Competition <strong>Best Prize (2st Place)</strong>, Hansung University, Korea (Aug. 2025 ~ Sep. 2025)
 
 - Hansung Development Contribution Award, Hansung University, Korea (Sep. 2025)
 
