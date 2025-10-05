@@ -41,4 +41,4 @@ Uploaded Llama-2-ko-Chat to HuggingFace(2023) [[Code]](https://huggingface.co/kf
 Edge device-based AI Teachable Machine Development at Marusys edu Co., Ltd.(2022) [[Demo]](https://youtu.be/V8V9z96L9wI)
 
 #### Research Interests
-Multi-Modal Learning, LLM, Diffusion, HCI
+Multi-Modal Learning, LLM, NPU, HCI
