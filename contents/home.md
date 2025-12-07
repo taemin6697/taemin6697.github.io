@@ -5,15 +5,15 @@ Studying at Hansung University.
 taemin6697[at]gmail.com
 
 #### Education
-2024.12 ~ 2025.02, Robot Intelligence Lab Intern, [Korea University.](https://sites.google.com/view/sungjoon-choi/home) (Advisor: Prof. [Sangeun Oh])
+2024.12 ~ 2025.02, Robot Intelligence Lab Intern, [Korea University.](https://sites.google.com/view/sungjoon-choi/home) (Advisor: Prof. Sangeun Oh)
 
-2024.07 ~ 2024.09, Interactive Computing Lab Intern, [KAIST.](https://ic.kaist.ac.kr/) (Advisor: Prof. [Uichin Lee])
+2024.07 ~ 2024.09, Interactive Computing Lab Intern, [KAIST.](https://ic.kaist.ac.kr/) (Advisor: Prof. Uichin Lee)
 
 2023.08 ~ 2023.12, Machine Learning Research Intern, [Alethio Co., Ltd.](https://living-heart-1a8.notion.site/e98a888c6ec94673a3406c20f3178663)
 
 2023.03 ~ 2023.08, NLP AI Developer 5th, [Naver BoostCamp AI Tech.](https://boostcamp.connect.or.kr/program_ai.html)
 
-2023.03 ~ 2023.04, Visual Intelligence Lab Intern, [Hansung University.](https://sites.google.com/view/hs-vilab) (Advisor: Prof. [Heeseok Oh])
+2023.03 ~ 2023.04, Visual Intelligence Lab Intern, [Hansung University.](https://sites.google.com/view/hs-vilab) (Advisor: Prof. Heeseok Oh)
 
 2022.06 ~ 2023.03, Research Intern, [Marusys edu Co., Ltd.](https://marusysedu.info/)
 
