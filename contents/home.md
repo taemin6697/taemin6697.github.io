@@ -5,7 +5,9 @@ Studying at Hansung University.
 taemin6697[at]gmail.com
 
 #### Education
-2024.12 ~ 2025.02, Robot Intelligence Lab Intern, [Korea University.](https://sites.google.com/view/sungjoon-choi/home) (Advisor: Prof. Sangeun Oh)
+2025.06 ~ 2026.02, Mobile Embedded Systems Lab Intern, [Korea University.](https://mes.korea.ac.kr/) (Advisor: Prof. Sangeun Oh)
+
+2024.12 ~ 2025.02, Robot Intelligence Lab Intern, [Korea University.](https://sites.google.com/view/sungjoon-choi/home) (Advisor: Prof. Sungjoon Choi)
 
 2024.07 ~ 2024.09, Interactive Computing Lab Intern, [KAIST.](https://ic.kaist.ac.kr/) (Advisor: Prof. Uichin Lee)
 
