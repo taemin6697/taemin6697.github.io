@@ -1,5 +1,5 @@
 Interested in LLMs and Diffusion models, currently exploring research in Edge AI.
-Studying at Hansung University.
+Studying at Hansung University. I will be joining Korea University as an M.S. student in February 2026.
 
 #### Email
 taemin6697[at]gmail.com
