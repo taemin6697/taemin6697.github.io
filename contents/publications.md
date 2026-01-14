@@ -1,5 +1,5 @@
 
-- Junhyuk Seo*, Taemin Kim*, Hyejung Ko*, Heeseok Oh† (IEIE, 2025 Journal.) Zero-Shot Voice Cloning Based Emotion-Preserving Video Dubbing
+- Junhyuk Seo*, Taemin Kim*, Hyejung Ko*, Heeseok Oh† (IEIE, 2026 Journal.) Zero-Shot Voice Cloning Based Emotion-Preserving Video Dubbing
 
 - Taemin Kim*, Seoklea Cho* (IEIE, 2025 Conference.) Evaluating Generalization and Data Leakage in Large Language Models vi Data Perturbation
   
