@@ -1,7 +1,7 @@
 
 - Junhyuk Seo*, Taemin Kim*, Hyejung Ko*, Heeseok Oh† (IEIE, 2026 Journal.) Zero-Shot Voice Cloning Based Emotion-Preserving Video Dubbing
 
-- Taemin Kim*, Seoklea Cho* (IEIE, 2025 Conference.) Evaluating Generalization and Data Leakage in Large Language Models vi Data Perturbation
+- Taemin Kim*, Seoklea Cho* (IEIE, 2025 Conference.) Evaluating Generalization and Data Leakage in Large Language Models vi Data Perturbation [[Paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12551163)
   
 - Minseo Kim*, Taemin Kim*, Thu Hoang Anh Vo, Yugyeong Jung†, Uichin Lee†† (CHI, 2025 Conference.) Exploring Modular Prompt Design for Emotion and Mental Health Recognition [[Paper]](https://ic.kaist.ac.kr/publications/papers/kim2025prompt.pdf)
 
