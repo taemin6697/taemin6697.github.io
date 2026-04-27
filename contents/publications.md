@@ -1,5 +1,6 @@
+- Taemin Kim, Junhyuk Seo, Hyejung Ko, Keejun Han, Woonghee Lee† (IEEE Access, 2026) TipMate: An Explainable Fair Tip Recommender System based on LLM
 
-- Junhyuk Seo*, Taemin Kim*, Hyejung Ko*, Heeseok Oh† (IEIE, 2026 Journal.) Zero-Shot Voice Cloning Based Emotion-Preserving Video Dubbing
+- Junhyuk Seo*, Taemin Kim*, Hyejung Ko*, Heeseok Oh† (IEIE, 2026 Journal.) Zero-Shot Voice Cloning Based Emotion-Preserving Video Dubbing [[Paper]](https://www.kci.go.kr/kciportal/mobile/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003315966)
 
 - Taemin Kim*, Seoklea Cho* (IEIE, 2025 Conference.) Evaluating Generalization and Data Leakage in Large Language Models vi Data Perturbation [[Paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12551163)
   
