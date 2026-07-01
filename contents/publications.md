@@ -1,6 +1,6 @@
-- Wonyong Cho*, Taemin Kim*, Jungmin Kim, Jeong Rae Kim, Sung Hoon Jung (Arxiv) Self-Abstraction Learning for Effective and Stable Training of Deep Neural Networks
+- Wonyong Cho*, Taemin Kim*, Jungmin Kim, Jeong Rae Kim, Sung Hoon Jung (Arxiv) Self-Abstraction Learning for Effective and Stable Training of Deep Neural Networks [[Paper]](https://arxiv.org/abs/2604.24313)
 
-- Taemin Kim, Junhyuk Seo, Hyejung Ko, Keejun Han, Woonghee Lee† (IEEE Access, 2026) TipMate: An Explainable Fair Tip Recommender System based on LLM
+- Taemin Kim, Junhyuk Seo, Hyejung Ko, Keejun Han, Woonghee Lee† (IEEE Access, 2026) TipMate: An Explainable Fair Tip Recommender System based on LLM [[Paper]](https://ieeexplore.ieee.org/document/11496650/)
 
 - Junhyuk Seo*, Taemin Kim*, Hyejung Ko*, Heeseok Oh† (IEIE, 2026 Journal.) Zero-Shot Voice Cloning Based Emotion-Preserving Video Dubbing [[Paper]](https://www.kci.go.kr/kciportal/mobile/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003315966)
 
