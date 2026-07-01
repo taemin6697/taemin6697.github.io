@@ -1,4 +1,4 @@
-- Wonyong Cho*, Taemin Kim*, Jungmin Kim, Jeong-Rae Kim, Sung Hoon Jung (Arxiv) Self-Abstraction Learning for Effective and Stable Training of Deep Neural Networks
+- Wonyong Cho*, Taemin Kim*, Jungmin Kim, Jeong Rae Kim, Sung Hoon Jung (Arxiv) Self-Abstraction Learning for Effective and Stable Training of Deep Neural Networks
 
 - Taemin Kim, Junhyuk Seo, Hyejung Ko, Keejun Han, Woonghee Lee† (IEEE Access, 2026) TipMate: An Explainable Fair Tip Recommender System based on LLM
 
