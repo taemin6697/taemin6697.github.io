@@ -1,7 +1,6 @@
 I'm **Taemin Kim**, an M.S. student in the **Department of Computer Science at Korea University**.
 
-My research interests lie in **large language models**, **multimodal learning**, and **Edge AI**.
-I am particularly interested in efficiently deploying AI models on **edge and on-device systems**, enabling capable intelligence under practical constraints such as limited computation, memory, power, and latency.
+My research interests lie in **GPU/NPU heterogeneous systems**, **real-time systems**, **large language models**, and **human-computer interaction**. I am particularly interested in efficiently deploying and serving AI models on **edge and on-device systems**, enabling responsive and capable intelligence under practical constraints such as limited computation, memory, power, and latency.
 
 My long-term goal is to develop efficient, reliable, and accessible AI systems that bridge cutting-edge research and real-world deployment.
 
