@@ -45,4 +45,4 @@ Uploaded Llama-2-ko-Chat to HuggingFace(2023) [[Code]](https://huggingface.co/kf
 Edge device-based AI Teachable Machine Development at Marusys edu Co., Ltd.(2022) [[Demo]](https://youtu.be/V8V9z96L9wI)
 
 #### Research Interests
-GPU/NPU Heterogeneous Systems, LLM, HCI
+GPU/NPU Heterogeneous Systems, Real-Time Systems, Large Language Models, Human-Computer Interaction
