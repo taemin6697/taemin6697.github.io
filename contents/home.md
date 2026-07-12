@@ -8,7 +8,7 @@ My long-term goal is to develop efficient, reliable, and accessible AI systems t
 taemin6697[at]gmail.com
 
 #### Education
-2025.06 ~ 2026.02, Mobile Embedded Systems Lab Intern, Advisor: Prof. Sangeun Oh, Korea University. 
+2025.06 ~ , Mobile Embedded Systems Lab Intern, Advisor: Prof. Sangeun Oh, Korea University. 
 
 2024.12 ~ 2025.02, Robot Intelligence Lab Intern, Advisor: Prof. Sungjoon Cho, Korea University.
 
