@@ -1,3 +1,5 @@
+- Yeongwoo Ha*, Taemin Kim*, Changhun Han, Chan Heo, Jaeheon Kwak, Hyosu Kim, Kilho Lee, Hoon Sung Chwa, and Sangeun Oh† (ICCAD, 2026 Conference.) CoRT: Supporting Hard and Soft Real-Time Tasks in Batched LLM Serving [[Paper]](https://arxiv.org/abs/)
+
 - Wonyong Cho*, Taemin Kim*, Jungmin Kim, Jeong Rae Kim, Sung Hoon Jung (Arxiv) Self-Abstraction Learning for Effective and Stable Training of Deep Neural Networks [[Paper]](https://arxiv.org/abs/2604.24313)
 
 - Taemin Kim, Junhyuk Seo, Hyejung Ko, Keejun Han, Woonghee Lee† (IEEE Access, 2026) TipMate: An Explainable Fair Tip Recommender System based on LLM [[Paper]](https://ieeexplore.ieee.org/document/11496650/)
