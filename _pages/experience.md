@@ -11,14 +11,14 @@ excerpt: "Research experience, featured projects, and awards."
     <div class="proj-card__mark" style="background:#e9eef6;color:#6b4f28"><span class="proj-card__mono">KU</span></div>
     <div class="proj-card__body">
       <p class="proj-card__head"><span class="proj-card__org">Mobile Embedded Systems Lab, Korea University</span><span class="proj-card__date">Jun 2025 – Present</span></p>
-      <p class="proj-card__role">Research intern · Advisor: Prof. Sangeun Oh</p>
+      <p class="proj-card__role">M.S. student · Advisor: Prof. Sangeun Oh</p>
     </div>
   </div>
   <div class="proj-card">
     <div class="proj-card__mark" style="background:#e9eef6;color:#6b4f28"><span class="proj-card__mono">KU</span></div>
     <div class="proj-card__body">
       <p class="proj-card__head"><span class="proj-card__org">Robot Intelligence Lab, Korea University</span><span class="proj-card__date">Dec 2024 – Feb 2025</span></p>
-      <p class="proj-card__role">Research intern · Advisor: Prof. Sungjoon Cho</p>
+      <p class="proj-card__role">Research intern · Advisor: Prof. Sungjoon Choi</p>
     </div>
   </div>
   <div class="proj-card">
