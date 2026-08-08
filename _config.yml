@@ -28,7 +28,7 @@ include:
 
 author:
   name: "Taemin Kim"
-  avatar: "/static/assets/img/photo.png"
+  avatar: "/assets/images/profile/taemin-kim-stadium.png"
   bio: |-
     M.S. student at Korea University working on efficient, reliable AI systems.
 
