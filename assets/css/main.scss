@@ -114,12 +114,6 @@ button:focus {
   border-radius: 12px;
 }
 
-// Keep the sidebar photo frame square while showing the full portrait.
-.author__avatar-trigger > img {
-  object-fit: contain;
-  background: #fff;
-}
-
 @include breakpoint($large) {
   .author__avatar img {
     padding: 0;
