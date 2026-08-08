@@ -1,0 +1,733 @@
+---
+# Only the main Sass file needs front matter.
+---
+
+// Layout
+$max-width: 1600px;
+$right-sidebar-width-narrow: 240px;
+$right-sidebar-width: 288px;
+
+// Typography (Pretendard Variable)
+$sans-serif: "Pretendard Variable", "Pretendard", -apple-system, BlinkMacSystemFont,
+  "Apple SD Gothic Neo", "Noto Sans KR", "Segoe UI", Arial, sans-serif;
+$global-font-family: $sans-serif;
+$header-font-family: $sans-serif;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+// ── Links ────────────────────────────────────────────────────────────────────
+
+a {
+  color: #3f5f63;
+  text-decoration-color: #aac7ca;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+}
+
+a:visited {
+  color: #4f6468;
+}
+
+a:hover,
+a:active {
+  color: #263f43;
+  text-decoration-color: #7da6aa;
+}
+
+a:focus,
+button:focus {
+  outline-color: #8fb7bb;
+}
+
+.page__content a:not(.btn),
+.archive__item a:not(.btn) {
+  color: inherit;
+  text-decoration-color: #aac7ca;
+}
+
+.page__content a:not(.btn):hover,
+.archive__item a:not(.btn):hover {
+  color: #263f43;
+  text-decoration-color: #7da6aa;
+}
+
+// ── Sidebar (always visible on large screens) ─────────────────────────────────
+
+@include breakpoint($large) {
+  .sidebar {
+    position: relative;
+    z-index: 40;
+    opacity: 1;
+  }
+
+  .sidebar:hover {
+    opacity: 1;
+  }
+
+  .sidebar.sticky {
+    overflow-y: visible;
+    max-height: none;
+  }
+}
+
+// ── Author avatar (2-up grid with click-to-enlarge) ──────────────────────────
+
+.author__avatar {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.author__avatar-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.375rem;
+  width: 100%;
+  max-width: none;
+}
+
+.author-photo-card {
+  position: relative;
+}
+
+.author-photo-toggle {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.author__avatar-trigger {
+  display: block;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: zoom-in;
+  text-decoration: none;
+}
+
+.author__avatar img {
+  max-width: none;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+@include breakpoint($large) {
+  .author__avatar img {
+    padding: 0;
+    border: 0;
+  }
+}
+
+.author-photo-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 4000;
+  display: none;
+  padding: 4vh 4vw;
+}
+
+.author-photo-toggle:checked + .author__avatar-trigger + .author-photo-modal {
+  display: grid;
+  place-items: center;
+}
+
+.author-photo-modal__backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(15, 20, 25, 0.78);
+  backdrop-filter: blur(2px);
+}
+
+.author-photo-modal__dialog {
+  position: relative;
+  z-index: 4001;
+}
+
+.author-photo-modal__image {
+  display: block;
+  max-width: min(92vw, 960px);
+  max-height: 84vh;
+  width: auto;
+  height: auto;
+  border-radius: 18px;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
+}
+
+.author-photo-modal__close {
+  position: absolute;
+  top: -0.875rem;
+  right: -0.875rem;
+  display: grid;
+  place-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 0;
+  border-radius: 999px;
+  background: #fff;
+  color: #111;
+  font-size: 1.75rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
+  text-decoration: none;
+}
+
+// ── CV download card ──────────────────────────────────────────────────────────
+
+.cv-download-card {
+  margin: 1.5rem 0 2rem;
+  padding: 0;
+}
+
+.cv-download-card__body {
+  margin: 0 0 0.75rem;
+}
+
+.cv-download-card__button {
+  margin-bottom: 0;
+}
+
+// ── Language toggle ───────────────────────────────────────────────────────────
+
+.language-toggle {
+  display: inline-flex;
+  align-items: center;
+  margin: 0 0 1.5rem;
+  padding: 0.125rem;
+  border: 1px solid #d8dee6;
+  border-radius: 999px;
+  background: #fff;
+}
+
+.language-toggle__link {
+  display: inline-block;
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  color: #3d4144;
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.language-toggle__link:visited {
+  color: #3d4144;
+}
+
+.language-toggle__link:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+.language-toggle__link--active {
+  background: #111;
+  color: #fff;
+}
+
+.language-toggle__link--active:visited,
+.language-toggle__link--active:hover {
+  color: #fff;
+}
+
+// ── General page content typography ──────────────────────────────────────────
+
+.page__content {
+  p {
+    line-height: 1.78;
+  }
+
+  h2 {
+    margin-top: 2.6em;
+    margin-bottom: 0.7em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid #eef0f2;
+    font-size: 0.95em;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: #3a424a;
+  }
+
+  h3 {
+    font-size: 0.92em;
+    font-weight: 600;
+    color: #3a424a;
+  }
+
+  // Tighten bullet list line-height slightly for dense info lists
+  ul:not(.pub-list) li {
+    line-height: 1.68;
+    margin-bottom: 0.25em;
+  }
+}
+
+// ── Publications page (.pub-page body class) ──────────────────────────────────
+
+.pub-page .page__content {
+  // Year / section H2 headers (e.g., "2026", "Under Review")
+  h2 {
+    font-size: 0.78em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #7a8490;
+    border-bottom: 1px solid #e4e8ec;
+    padding-bottom: 0.35em;
+    margin-top: 2.4em;
+    margin-bottom: 0;
+  }
+
+  // Publication list
+  ul {
+    padding-left: 0;
+    margin-left: 0;
+    margin-top: 0;
+  }
+
+  ul > li {
+    list-style: none;
+    padding: 0.9em 0;
+    border-bottom: 1px solid #f0f2f4;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    // Title paragraph (first <p> in a loose list item)
+    p:first-child {
+      margin: 0 0 0.3em;
+      line-height: 1.5;
+      font-size: 0.97em;
+    }
+
+    // Authors + venue paragraph (second <p>)
+    p:last-child {
+      margin: 0;
+      font-size: 0.855em;
+      color: #5a6472;
+      line-height: 1.55;
+    }
+
+    // Venue name (bold inside the author/venue paragraph)
+    p:last-child strong {
+      font-weight: 600;
+      color: #3f5f63;
+    }
+  }
+
+  // Footnote ("Α: First author" etc.)
+  em:last-of-type {
+    font-size: 0.82em;
+    color: #8a9299;
+  }
+}
+
+// ── Home: hero ────────────────────────────────────────────────────────────────
+
+.page__content .hero {
+  margin: 0.25rem 0 3rem;
+}
+
+.page__content .hero__lead {
+  margin: 0 0 0.9rem;
+  font-size: 1.4rem;
+  line-height: 1.5;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  color: #1f242a;
+}
+
+.page__content .hero__sub {
+  margin: 0 0 1.5rem;
+  max-width: 44rem;
+  font-size: 1rem;
+  line-height: 1.78;
+  color: #51606b;
+}
+
+.page__content .hero__intern {
+  margin: 0;
+  padding: 0 0 0 0.85rem;
+  border-left: 2px solid #c7d6d8;
+  color: #5a6671;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+// ── Home: selected research (calm list) ───────────────────────────────────────
+
+.page__content .selected {
+  margin: 1.25rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.page__content .selected > li {
+  padding: 1rem 0;
+  border-bottom: 1px solid #eef0f2;
+}
+
+.page__content .selected > li:first-child {
+  padding-top: 0.25rem;
+}
+
+.page__content .selected > li:last-child {
+  border-bottom: none;
+}
+
+.page__content .selected__head {
+  margin: 0 0 0.3rem;
+  font-size: 1.02rem;
+}
+
+.page__content .selected__head a {
+  font-weight: 600;
+  color: #1f242a;
+}
+
+.page__content .selected__venue {
+  margin-left: 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #8a929b;
+}
+
+.page__content .selected__desc {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.65;
+  color: #57626c;
+}
+
+.page__content .see-all {
+  margin: 1.1rem 0 0;
+  font-size: 0.9rem;
+}
+
+.page__content .see-all a::after {
+  content: " \2192";
+}
+
+// ── Home: ongoing direction ───────────────────────────────────────────────────
+
+.page__content .ongoing {
+  margin: 1.25rem 0 0.5rem;
+  padding: 0 0 0 1.1rem;
+  border-left: 2px solid #c7d6d8;
+}
+
+.page__content .ongoing__quote {
+  margin: 0 0 0.7rem;
+  font-size: 1.05rem;
+  font-weight: 500;
+  font-style: italic;
+  line-height: 1.55;
+  color: #2d3439;
+}
+
+.page__content .ongoing__body {
+  margin: 0;
+  font-size: 0.96rem;
+  line-height: 1.78;
+  color: #51606b;
+}
+
+.page__content .ongoing__body strong {
+  font-weight: 600;
+  color: #2d3439;
+}
+
+// ── Home: cat photo slots ─────────────────────────────────────────────────────
+
+.page__content .cat-photos {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin: 1.25rem 0 0.5rem;
+  max-width: 28rem;
+}
+
+.page__content .cat-photo {
+  margin: 0;
+}
+
+.page__content .cat-photo__frame {
+  position: relative;
+  display: grid;
+  place-items: center;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border: 1px dashed #cdd9dc;
+  border-radius: 14px;
+  background: #f4f8f8;
+}
+
+.page__content .cat-photo__frame img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 14px;
+}
+
+.page__content .cat-photo__ph {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  color: #9aa7ac;
+  font-size: 0.78rem;
+}
+
+.page__content .cat-photo__ph i {
+  font-size: 1.5rem;
+}
+
+.page__content .cat-photo figcaption {
+  margin-top: 0.4rem;
+  font-size: 0.8rem;
+  color: #7a8490;
+  text-align: center;
+}
+
+// ── Home: cat carousel (swipeable, one per cat) ───────────────────────────────
+
+.page__content .cat-carousel {
+  position: relative;
+  margin: 0;
+}
+
+.page__content .cat-carousel__frame {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 12px;
+  background: #f7f9f9;
+}
+
+.page__content .cat-carousel__track {
+  display: flex;
+  height: 100%;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.page__content .cat-carousel__track::-webkit-scrollbar {
+  display: none;
+}
+
+.page__content .cat-carousel__track img {
+  flex: 0 0 100%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  scroll-snap-align: center;
+}
+
+.page__content .cat-carousel__nav {
+  position: absolute;
+  top: calc(50% - 0.95rem);
+  display: grid;
+  place-items: center;
+  width: 1.9rem;
+  height: 1.9rem;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.85);
+  color: #2d3439;
+  font-size: 0.72rem;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  box-shadow: 0 1px 5px rgba(20, 30, 30, 0.18);
+}
+
+.page__content .cat-carousel:hover .cat-carousel__nav,
+.page__content .cat-carousel__nav:focus-visible {
+  opacity: 1;
+}
+
+.page__content .cat-carousel__nav--prev { left: 0.4rem; }
+.page__content .cat-carousel__nav--next { right: 0.4rem; }
+
+.page__content .cat-carousel__dots {
+  display: flex;
+  justify-content: center;
+  gap: 0.3rem;
+  margin-top: 0.5rem;
+}
+
+.page__content .cat-carousel__dots button {
+  width: 6px;
+  height: 6px;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: #cfd6da;
+  cursor: pointer;
+}
+
+.page__content .cat-carousel__dots button[aria-current="true"] {
+  background: #3f5f63;
+}
+
+.page__content .cat-carousel figcaption {
+  margin-top: 0.4rem;
+  font-size: 0.8rem;
+  color: #8a929b;
+  text-align: center;
+}
+
+// ── Home: news list ───────────────────────────────────────────────────────────
+
+.page__content .news-list {
+  margin: 1rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.page__content .news-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid #f0f2f4;
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: #45525a;
+}
+
+.page__content .news-list li:last-child {
+  border-bottom: none;
+}
+
+.page__content .news-list__date {
+  flex: 0 0 5.5rem;
+  white-space: nowrap;
+  font-weight: 600;
+  font-size: 0.82rem;
+  color: #8a929b;
+}
+
+.page__content .news-list__text {
+  flex: 1;
+  min-width: 0;
+}
+
+// ── CV: project cards ─────────────────────────────────────────────────────────
+
+.page__content .proj-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 1rem 0 0;
+}
+
+.page__content .proj-card {
+  display: flex;
+  gap: 0.9rem;
+  align-items: flex-start;
+  padding: 0.9rem 1rem;
+  border: 1px solid #e9edf0;
+  border-radius: 12px;
+  background: #fff;
+}
+
+.page__content .proj-card__mark {
+  position: relative;
+  flex: 0 0 auto;
+  display: grid;
+  place-items: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.page__content .proj-card__mark img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #fff;
+  padding: 4px;
+}
+
+.page__content .proj-card__mono {
+  font-weight: 600;
+  font-size: 0.7rem;
+  letter-spacing: 0.01em;
+}
+
+.page__content .proj-card__body {
+  flex: 1;
+  min-width: 0;
+}
+
+.page__content .proj-card__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin: 0 0 0.15rem;
+}
+
+.page__content .proj-card__org {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #1f242a;
+}
+
+.page__content .proj-card__date {
+  font-size: 0.78rem;
+  color: #8a929b;
+}
+
+.page__content .proj-card__role {
+  margin: 0 0 0.2rem;
+  font-size: 0.8rem;
+  color: #3f5f63;
+}
+
+.page__content .proj-card__desc {
+  margin: 0;
+  font-size: 0.86rem;
+  line-height: 1.55;
+  color: #57626c;
+}
+
+// ── Home: small-screen stacking ───────────────────────────────────────────────
+
+@media (max-width: 38rem) {
+  .page__content .hero__lead {
+    font-size: 1.25rem;
+  }
+}
+
+// Home: research-interest tags
+.page__content .interest-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 1.1rem 0 0.25rem;
+}
+
+.page__content .interest-tags span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2rem;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid #dce5e6;
+  border-radius: 999px;
+  background: #f7fbfb;
+  color: #44555a;
+  font-size: 0.82rem;
+  line-height: 1.2;
+}

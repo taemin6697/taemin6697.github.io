@@ -1,0 +1,5 @@
+en: &DEFAULT_EN
+  follow_label          : "Links"
+
+ko:
+  <<: *DEFAULT_EN

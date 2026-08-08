@@ -1,0 +1,63 @@
+title: "Taemin Kim"
+name: "Taemin Kim"
+email: "taemin6697@gmail.com"
+description: >-
+  M.S. student at Korea University working on efficient and reliable AI systems
+  for edge and on-device deployment.
+url: "https://taemin6697.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.1"
+minimal_mistakes_skin: "contrast"
+
+locale: "en"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+include:
+  - _pages
+
+author:
+  name: "Taemin Kim"
+  avatar: "/static/assets/img/photo.png"
+  bio: |-
+    M.S. student at Korea University working on efficient, reliable AI systems.
+
+    GPU/NPU systems · real-time AI · LLM serving · HCI
+  location: "Seoul, Korea"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:taemin6697@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/taemin6697"
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:taemin6697@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/taemin6697"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+
+sass:
+  style: compressed
