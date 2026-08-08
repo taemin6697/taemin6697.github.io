@@ -32,8 +32,8 @@ My long-term goal is to make advanced AI more reliable, accessible, and useful o
 
 <ul class="selected">
   <li>
-    <p class="selected__head"><a href="/publications/#2026">CoRT: Supporting Hard and Soft Real-Time Tasks in Batched LLM Serving</a><span class="selected__venue">ICCAD 2026</span></p>
-    <p class="selected__desc">Research on serving batched language-model workloads while respecting both hard and soft real-time requirements.</p>
+    <p class="selected__head"><a href="https://youtu.be/VmqXaNQ5Wq4">VLM Interrupt-Based Robot Navigation System</a><span class="selected__venue">Korea University · 2025</span></p>
+    <p class="selected__desc">A vision-language-model-based robot navigation project. Details are limited by an LG NDA.</p>
   </li>
   <li>
     <p class="selected__head"><a href="https://ic.kaist.ac.kr/publications/papers/kim2025prompt.pdf">Prompt Modularization &amp; Emotion Recognition with LLM</a><span class="selected__venue">KAIST · 2024</span></p>
@@ -44,8 +44,8 @@ My long-term goal is to make advanced AI more reliable, accessible, and useful o
     <p class="selected__desc">An LLM-serving project focused on practical deployment and system engineering.</p>
   </li>
   <li>
-    <p class="selected__head"><a href="https://github.com/wooyeolBaek/attention-map">Visualizing Diffusion Cross-Attention Maps</a><span class="selected__venue">2023</span></p>
-    <p class="selected__desc">Tools for inspecting text-to-image diffusion models through their cross-attention behavior.</p>
+    <p class="selected__head"><a href="https://openreview.net/pdf?id=5fWY2ZlsKj">Multimodal LLM to Multimodal Generation</a><span class="selected__venue">ETRI &amp; Hansung University · 2024</span></p>
+    <p class="selected__desc">Research extending multimodal language models toward multimodal generation.</p>
   </li>
 </ul>
 
