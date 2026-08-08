@@ -53,10 +53,24 @@ My long-term goal is to make advanced AI more reliable, accessible, and useful o
 
 ## Recent publications
 
-<div class="ongoing">
-  <p class="ongoing__quote">Systems research is where model capability meets the conditions of use.</p>
-  <p class="ongoing__body">Recent work includes real-time LLM serving, explainable LLM-based recommendation, multimodal generation, prompt design, and robust evaluation of large language models.</p>
-</div>
+<ul class="selected">
+  <li>
+    <p class="selected__head"><a href="/publications/#2026">CoRT: Supporting Hard and Soft Real-Time Tasks in Batched LLM Serving</a><span class="selected__venue">ICCAD 2026</span></p>
+    <p class="selected__desc">Yeongwoo Ha*, Taemin Kim*, Changhun Han, Chan Heo, Jaeheon Kwak, Hyosu Kim, Kilho Lee, Hoon Sung Chwa, and Sangeun Oh†.</p>
+  </li>
+  <li>
+    <p class="selected__head"><a href="https://arxiv.org/abs/2604.24313">Self-Abstraction Learning for Effective and Stable Training of Deep Neural Networks</a><span class="selected__venue">arXiv 2026</span></p>
+    <p class="selected__desc">Wonyong Cho*, Taemin Kim*, Jungmin Kim, Jeong Rae Kim, and Sung Hoon Jung.</p>
+  </li>
+  <li>
+    <p class="selected__head"><a href="https://ieeexplore.ieee.org/document/11496650/">TipMate: An Explainable Fair Tip Recommender System based on LLM</a><span class="selected__venue">IEEE Access 2026</span></p>
+    <p class="selected__desc">Taemin Kim, Junhyuk Seo, Hyejung Ko, Keejun Han, and Woonghee Lee†.</p>
+  </li>
+  <li>
+    <p class="selected__head"><a href="https://www.kci.go.kr/kciportal/mobile/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003315966">Zero-Shot Voice Cloning Based Emotion-Preserving Video Dubbing</a><span class="selected__venue">IEIE Journal 2026</span></p>
+    <p class="selected__desc">Junhyuk Seo*, Taemin Kim*, Hyejung Ko*, and Heeseok Oh†.</p>
+  </li>
+</ul>
 
 <p class="see-all"><a href="/publications/">See all publications</a></p>
 
