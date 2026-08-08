@@ -51,7 +51,7 @@ My long-term goal is to make advanced AI more reliable, accessible, and useful o
 
 <p class="see-all"><a href="/experience/">See all projects, experience, and awards</a></p>
 
-## Recent publications
+## Publications
 
 <ul class="selected">
   <li>
