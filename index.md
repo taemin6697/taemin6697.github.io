@@ -28,7 +28,7 @@ My long-term goal is to make advanced AI more reliable, accessible, and useful o
   <span>Human–computer interaction</span>
 </div>
 
-## Featured projects
+## Recent projects
 
 <ul class="selected">
   <li>
